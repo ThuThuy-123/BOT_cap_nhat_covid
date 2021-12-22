@@ -54,6 +54,7 @@ while True:
             break
         raise Exception
     except:
+        edđ
         print("Số mũi vắc-xin nên là từ 0->2, bạn vui lòng nhập lại:")
 row='***'
 print(row*20)
