@@ -53,7 +53,7 @@ while True:
             print("Bạn đã tiêm đủ 2 mũi vắc-xin phòng chống covid-19. Tuy nhiên, bạn vẫn cần phải thực hiện 1 số biện pháp phòng chống dịch bệnh. ")
             break
         raise Exception
-    except:
+    ex
         print("Số mũi vắc-xin nên là từ 0->2, bạn vui lòng nhập lại:")
 row='***'
 print(row*20)
